@@ -1,3 +1,3 @@
 # SSW565_final_project_OpenCV_Architecture
 
-Open the finalproject.pdf to view the complete architecture.
+Open the Final_Project.pdf to view the complete architecture.
